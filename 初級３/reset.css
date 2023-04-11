@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+li{
+    list-style:none;
+  }
+  /* baseに記述 */
+  a{
+    color: #24292E;
+    opacity: 1;
+    text-decoration: none;
+
+  }
+
+  dl, dt, dd {
+    margin: 0;
+    padding: 0;
+    }
